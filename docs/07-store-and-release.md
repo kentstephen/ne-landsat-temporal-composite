@@ -80,7 +80,7 @@ Hosted layout:
     README.md, LICENSE      the product README, CC0-1.0
     pyramid_v1/             the product
     build.icechunk/         the working store, tags v3, v4, v4-provenance
-    supplemental/           state_boundary.parquet, wildlands.parquet, water.parquet, README.md
+    supplemental/           tiger_states.parquet, hf435_wildlands.parquet, nhd_water_bodies.parquet, README.md
 
 ## Upload
 

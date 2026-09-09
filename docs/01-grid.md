@@ -15,7 +15,7 @@ and land pixel counts) and `data/grid/state_mask.tif` (1 inside CT, RI,
 MA, VT, NH, ME, from the Census cartographic boundary file, which is
 shoreline-clipped). The mask decides which tiles are built; it does not
 mask the pixels. The store keeps whole tiles, so New York, Quebec, New
-Brunswick and the ocean are in it, and `supplemental/state_boundary.parquet`
+Brunswick and the ocean are in it, and `supplemental/tiger_states.parquet`
 is the clip for anyone who wants the six-state footprint.
 
 ## Why EPSG:4326

@@ -1,9 +1,9 @@
 # Supplemental data
 
-Three layers over the mosaic. `state_boundary.parquet` is the six-state
+Three layers over the mosaic. `tiger_states.parquet` is the six-state
 footprint for clipping the mosaic, which is not masked in the store.
-`water.parquet` is the inland and near-shore water, for masking the CTrees
-fold. **`wildlands.parquet` is the one the viewers draw.**
+`nhd_water_bodies.parquet` is the inland and near-shore water, for masking the CTrees
+fold. **`hf435_wildlands.parquet` is the one the viewers draw.**
 
 An earlier overlay, a build of Harvard Forest's New England Protected Open
 Space v1.1 (Zenodo 4688018), was replaced by the wildlands layer on
@@ -13,7 +13,7 @@ alongside Baxter State Park, with a median parcel of 2.7 ha and no land
 cover attribute to filter on. `src/landsat_mosaic/supplemental.py` still
 builds it from the Zenodo source if it is wanted.
 
-## wildlands.parquet (in use)
+## hf435_wildlands.parquet (in use)
 
 The 2022 Wildlands of New England: conserved land that by design lets
 natural processes run, with no active management. Drawn over the mosaic as
@@ -57,7 +57,7 @@ ProtDocs, ThrdPartYN, ThrdPartID, MgmtPlanTy, State, AcresGIS, geometry.
 
 The snapshot is 2022. Land made Wildland since then is not included.
 
-## state_boundary.parquet (in use)
+## tiger_states.parquet (in use)
 
 The six New England states from Census TIGER/Line 2024, for clipping the
 mosaic to New England in notebooks and viewers. The store itself is not
@@ -90,7 +90,7 @@ What changed from the source (see src/landsat_mosaic/state_boundary.py):
 7 rows, 1.1 MB. Columns: kind ("state" or "new_england"), geoid, stusps,
 name, aland, awater, geometry.
 
-## water.parquet (in use, not in git)
+## nhd_water_bodies.parquet (in use, not in git)
 
 **Not tracked in this repo**: 18.7 MB. Build it once with
 `uv run python src/landsat_mosaic/water.py`; the viewer says so in its

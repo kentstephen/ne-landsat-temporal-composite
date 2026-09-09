@@ -30,7 +30,7 @@ Clip: the store is not masked to the states (whole tiles, so NY, Quebec,
 New Brunswick and the ocean are in it). `set_clip(geom)` makes pixels whose
 centre falls outside `geom` (a shapely polygon in EPSG:4326) transparent;
 `clip_to_states()` loads the dissolved six-state row of
-supplemental/state_boundary.parquet (raw TIGER, to the 3 nmi limit) and
+supplemental/tiger_states.parquet (raw TIGER, to the 3 nmi limit) and
 sets it. Off by default, so the CLI and mosaic-viewer draw the whole tile.
 
 Usage: from landsat_mosaic import tiles; tiles.tile_png(z, x, y, year, "tc")
@@ -95,7 +95,7 @@ _R = 6378137.0
 
 _lock = threading.Lock()
 _state = {"root": None, "opened": 0.0, "done": {}, "gen": 0}
-STATES_PATH = grid.ROOT / "supplemental/state_boundary.parquet"
+STATES_PATH = grid.ROOT / "supplemental/tiger_states.parquet"
 _clip = {"geom": None, "prep": None, "cache": {}}
 _CLIP_CACHE = 4096
 
@@ -115,7 +115,7 @@ def set_clip(geom):
 
 
 def clip_to_states():
-    """Clip to the six states dissolved (supplemental/state_boundary.parquet,
+    """Clip to the six states dissolved (supplemental/tiger_states.parquet,
     kind = new_england). Returns the polygon."""
     import geopandas as gpd
 

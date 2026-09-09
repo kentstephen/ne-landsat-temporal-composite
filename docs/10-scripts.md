@@ -93,9 +93,9 @@ question whose answer is in the docs and in `stats/`.
 
 ## The supplemental layers
 
-    state_boundary.py   supplemental/state_boundary.parquet from TIGER/Line 2024.
-    wildlands.py        supplemental/wildlands.parquet from Harvard Forest HF435.
-    water.py            supplemental/water.parquet from NHD High Resolution (18.7 MB,
+    state_boundary.py   supplemental/tiger_states.parquet from TIGER/Line 2024.
+    wildlands.py        supplemental/hf435_wildlands.parquet from Harvard Forest HF435.
+    water.py            supplemental/nhd_water_bodies.parquet from NHD High Resolution (18.7 MB,
                         built on demand, not tracked).
     supplemental.py     supplemental/protected_open_space.parquet from Harvard
                         Forest's Protected Open Space v1.1. Built, shipped, then
@@ -123,7 +123,7 @@ from each source.
     tiles.py            Web Mercator PNG tiles from the pyramid, the level nearest the
                         zoom, and probe(lon, lat, year) for the click readout. Reads
                         data/pyramid_v1; clip_to_states() uses
-                        supplemental/state_boundary.parquet.
+                        supplemental/tiger_states.parquet.
 
 The CTrees pair notebooks are not here. They consume the product and
 live in their own repo.

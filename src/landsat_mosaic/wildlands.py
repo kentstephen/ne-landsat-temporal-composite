@@ -1,4 +1,4 @@
-"""Build supplemental/wildlands.parquet.
+"""Build supplemental/hf435_wildlands.parquet.
 
 Source: Wildlands of New England GIS Data 1900-2022 (HF435), Harvard Forest
 Data Archive, CC0. Foster, Johnson and Hall, 2023. The 2022 snapshot of the
@@ -27,7 +27,7 @@ ROOT = Path(__file__).resolve().parents[2]
 HF_URL = ("https://harvardforest.fas.harvard.edu/data/p43/hf435/"
           "hf435-04-New-England-Wildlands-2022-GIS.zip")
 ZIP = ROOT / "data/supplemental/hf435-wildlands-2022.zip"
-OUT = ROOT / "supplemental/wildlands.parquet"
+OUT = ROOT / "supplemental/hf435_wildlands.parquet"
 SHP = "Wildlands_of_New_England_2022_GIS_Polygons.shp"
 TOLERANCE = 0.0001
 DROP = ["OBJECTID"]

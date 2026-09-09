@@ -1,4 +1,4 @@
-"""Build supplemental/state_boundary.parquet.
+"""Build supplemental/tiger_states.parquet.
 
 Source: Census Bureau TIGER/Line 2024 state boundaries (tl_2024_us_state),
 public domain. The raw TIGER polygons, not the cartographic boundary file:
@@ -33,7 +33,7 @@ import requests
 ROOT = Path(__file__).resolve().parents[2]
 TIGER_URL = "https://www2.census.gov/geo/tiger/TIGER2024/STATE/tl_2024_us_state.zip"
 ZIP = ROOT / "data/supplemental/tl_2024_us_state.zip"
-OUT = ROOT / "supplemental/state_boundary.parquet"
+OUT = ROOT / "supplemental/tiger_states.parquet"
 FIPS = {"09": "CT", "23": "ME", "25": "MA", "33": "NH", "44": "RI", "50": "VT"}
 KEEP = ["GEOID", "STUSPS", "NAME", "ALAND", "AWATER", "geometry"]
 

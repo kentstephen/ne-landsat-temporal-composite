@@ -16,5 +16,5 @@ data/*
 !data/striping_v3/
 
 # built by water.py, 18.7 MB; the two small layers are tracked
-supplemental/water.parquet
+supplemental/nhd_water_bodies.parquet
 supplemental/protected_open_space.parquet

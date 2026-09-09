@@ -1,4 +1,4 @@
-"""Build supplemental/water.parquet.
+"""Build supplemental/nhd_water_bodies.parquet.
 
 Source: USGS National Hydrography Dataset, High Resolution (NHD HR), the
 per-HU4 GeoPackages staged on prd-tnm.s3.amazonaws.com. Public domain (U.S.
@@ -11,7 +11,7 @@ Why this file: CTrees carries a biomass value over open water (zero, or near
 it, with an uncertainty), not a nodata flag, so the hexagon fold in
 pyramid-ctrees-pair.py averages lake pixels in with shore forest and draws
 hexagons over lakes. This layer masks water at the pixel level before the
-per-cell mean, the way state_boundary.parquet masks NY, Quebec and the sea.
+per-cell mean, the way tiger_states.parquet masks NY, Quebec and the sea.
 
 What is kept: NHDWaterbody LakePond (390), Reservoir (436) and Estuary
 (493), and NHDArea SeaOcean (445), BayInlet (312) and StreamRiver (460, the
@@ -46,8 +46,8 @@ import shapely
 ROOT = Path(__file__).resolve().parents[2]
 BASE = "https://prd-tnm.s3.amazonaws.com/StagedProducts/Hydrography/NHD/HU4/GPKG/"
 CACHE = ROOT / "data/supplemental/nhd"
-OUT = ROOT / "supplemental/water.parquet"
-STATES = ROOT / "supplemental/state_boundary.parquet"
+OUT = ROOT / "supplemental/nhd_water_bodies.parquet"
+STATES = ROOT / "supplemental/tiger_states.parquet"
 HU4S = [f"01{i:02d}" for i in range(1, 11)] + ["0202", "0430"]
 # layer -> the feature types kept
 KEEP = {"NHDWaterbody": (390, 436, 493), "NHDArea": (445, 312, 460)}
