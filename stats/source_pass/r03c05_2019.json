@@ -1,0 +1,104 @@
+{
+ "own": 0.8675563335418701,
+ "before": 0.00442814826965332,
+ "after": 0.0057138800621032715,
+ "l7": 0.0,
+ "nodata": 0.12230163812637329,
+ "unmatched": 0.0,
+ "neighbour": 0.010142028331756592,
+ "doy_median": {
+  "own": 237.0,
+  "before": 177.0,
+  "after": 263.0,
+  "l7": null
+ },
+ "tile": "r03c05",
+ "year": 2019,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.999993085861206,
+   "before": 6.67572021484375e-06,
+   "after": 2.384185791015625e-07,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 6.9141387939453125e-06,
+   "doy_median": {
+    "own": 237.0,
+    "before": 257.0,
+    "after": 167.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 87,
+   "days": 64
+  },
+  {
+   "own": 1.0,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 237.0,
+    "before": null,
+    "after": null,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 87,
+   "days": 64
+  },
+  {
+   "own": 0.9770157337188721,
+   "before": 0.0059299468994140625,
+   "after": 0.017054319381713867,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.02298426628112793,
+   "doy_median": {
+    "own": 244.0,
+    "before": 193.0,
+    "after": 263.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 87,
+   "days": 64
+  },
+  {
+   "own": 0.49321651458740234,
+   "before": 0.011775970458984375,
+   "after": 0.005800962448120117,
+   "l7": 0.0,
+   "nodata": 0.48920655250549316,
+   "unmatched": 0.0,
+   "neighbour": 0.017576932907104492,
+   "doy_median": {
+    "own": 237.0,
+    "before": 161.0,
+    "after": 215.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 87,
+   "days": 64
+  }
+ ],
+ "minutes": 3.59
+}

@@ -1,0 +1,64 @@
+{
+ "own": 0.9996343903940886,
+ "before": 5.8930495689655175e-05,
+ "after": 0.0002932994823737685,
+ "l7": 1.3379627847906405e-05,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 0.00035222997806342367,
+ "doy_median": {
+  "own": 188.0,
+  "before": 249.0,
+  "after": 238.0,
+  "l7": 260.0
+ },
+ "tile": "r06c03",
+ "year": 2016,
+ "pixels": 6651904,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.9997627746882697,
+   "before": 4.600186653325123e-05,
+   "after": 0.00016446418950123154,
+   "l7": 2.675925569581281e-05,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.00021046605603448277,
+   "doy_median": {
+    "own": 204.0,
+    "before": 249.0,
+    "after": 238.0,
+    "l7": 260.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 114,
+   "days": 65
+  },
+  {
+   "own": 0.9995060060999076,
+   "before": 7.185912484605911e-05,
+   "after": 0.0004221347752463054,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0004939939000923645,
+   "doy_median": {
+    "own": 188.0,
+    "before": 249.0,
+    "after": 238.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 83,
+   "days": 63
+  }
+ ],
+ "minutes": 1.77
+}

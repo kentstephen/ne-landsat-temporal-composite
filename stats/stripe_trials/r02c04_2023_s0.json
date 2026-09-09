@@ -1,0 +1,75 @@
+{
+ "scenes": 87,
+ "days": 43,
+ "platforms": {
+  "landsat-7": 16,
+  "landsat-8": 13,
+  "landsat-9": 14
+ },
+ "medoid": {
+  "blocks": 4,
+  "nir_ratio_mean": 1.654,
+  "nir_ratio_max": 2.473,
+  "nir_self_mean": 2.207,
+  "cc_ratio_mean": 12.589,
+  "mean_count": 11.63,
+  "frac_lt4": 0.0,
+  "frac_nodata": 0.0,
+  "seconds": 31.7
+ },
+ "median": {
+  "blocks": 4,
+  "nir_ratio_mean": 1.673,
+  "nir_ratio_max": 2.502,
+  "nir_self_mean": 2.218,
+  "cc_ratio_mean": 12.589,
+  "mean_count": 11.63,
+  "frac_lt4": 0.0,
+  "frac_nodata": 0.0,
+  "seconds": 29.5
+ },
+ "medoid_nol7": {
+  "blocks": 4,
+  "nir_ratio_mean": 1.266,
+  "nir_ratio_max": 2.259,
+  "nir_self_mean": 2.317,
+  "cc_ratio_mean": 1.729,
+  "mean_count": 8.5,
+  "frac_lt4": 0.0,
+  "frac_nodata": 0.0,
+  "seconds": 30.4
+ },
+ "median_nol7": {
+  "blocks": 4,
+  "nir_ratio_mean": 1.273,
+  "nir_ratio_max": 2.293,
+  "nir_self_mean": 2.336,
+  "cc_ratio_mean": 1.729,
+  "mean_count": 8.5,
+  "frac_lt4": 0.0,
+  "frac_nodata": 0.0,
+  "seconds": 27.4
+ },
+ "medoid_l7fill": {
+  "blocks": 4,
+  "nir_ratio_mean": 1.266,
+  "nir_ratio_max": 2.259,
+  "nir_self_mean": 2.317,
+  "cc_ratio_mean": 1.729,
+  "mean_count": 8.5,
+  "frac_lt4": 0.0,
+  "frac_nodata": 0.0,
+  "seconds": 31.0
+ },
+ "median_l7fill": {
+  "blocks": 4,
+  "nir_ratio_mean": 1.273,
+  "nir_ratio_max": 2.293,
+  "nir_self_mean": 2.336,
+  "cc_ratio_mean": 1.729,
+  "mean_count": 8.5,
+  "frac_lt4": 0.0,
+  "frac_nodata": 0.0,
+  "seconds": 28.0
+ }
+}

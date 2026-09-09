@@ -1,0 +1,104 @@
+{
+ "own": 0.9250814914703369,
+ "before": 0.025066494941711426,
+ "after": 0.038128435611724854,
+ "l7": 0.011723577976226807,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 0.06319493055343628,
+ "doy_median": {
+  "own": 258.0,
+  "before": 239.0,
+  "after": 244.0,
+  "l7": 186.0
+ },
+ "tile": "r04c03",
+ "year": 2004,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.80338454246521,
+   "before": 0.07109832763671875,
+   "after": 0.11377906799316406,
+   "l7": 0.011738061904907227,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.1848773956298828,
+   "doy_median": {
+    "own": 258.0,
+    "before": 239.0,
+    "after": 244.0,
+    "l7": 186.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 56,
+   "days": 56
+  },
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 258.0,
+    "before": null,
+    "after": null,
+    "l7": 179.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 56,
+   "days": 56
+  },
+  {
+   "own": 0.9203789234161377,
+   "before": 0.029167652130126953,
+   "after": 0.03873467445373535,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0679023265838623,
+   "doy_median": {
+    "own": 258.0,
+    "before": 239.0,
+    "after": 244.0,
+    "l7": 186.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 110,
+   "days": 64
+  },
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 258.0,
+    "before": null,
+    "after": null,
+    "l7": 179.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 110,
+   "days": 64
+  }
+ ],
+ "minutes": 2.58
+}

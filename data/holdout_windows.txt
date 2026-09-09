@@ -1,0 +1,8 @@
+# year lat lon   (2048 px windows; tile derived from the point)
+2016 45.96 -68.72   Katahdin Woods and Waters, home view, Landsat 8 era, the logging-road change
+2019 45.96 -68.72   Katahdin, Landsat 8 era
+2006 45.96 -68.72   Katahdin, Landsat 5 era
+2010 45.96 -68.72   Katahdin, Landsat 5 era
+2020 43.32 -72.03   Newbury NH, the streak that started the ladder
+2014 43.32 -72.03   Newbury NH
+2004 43.32 -72.03   Newbury NH, Landsat 5 era

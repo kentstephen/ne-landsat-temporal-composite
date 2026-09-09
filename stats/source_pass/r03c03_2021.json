@@ -1,0 +1,104 @@
+{
+ "own": 0.99346524477005,
+ "before": 0.0019331574440002441,
+ "after": 0.004601538181304932,
+ "l7": 5.960464477539063e-08,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 0.006534695625305176,
+ "doy_median": {
+  "own": 224.0,
+  "before": 254.0,
+  "after": 203.0,
+  "l7": 296.0
+ },
+ "tile": "r03c03",
+ "year": 2021,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.984260082244873,
+   "before": 0.006235837936401367,
+   "after": 0.009504079818725586,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.015739917755126953,
+   "doy_median": {
+    "own": 224.0,
+    "before": 254.0,
+    "after": 211.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 144,
+   "days": 80
+  },
+  {
+   "own": 0.9964053630828857,
+   "before": 0.0011074542999267578,
+   "after": 0.0024871826171875,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.003594636917114258,
+   "doy_median": {
+    "own": 224.0,
+    "before": 254.0,
+    "after": 203.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 144,
+   "days": 80
+  },
+  {
+   "own": 0.9931955337524414,
+   "before": 0.00038933753967285156,
+   "after": 0.006414890289306641,
+   "l7": 2.384185791015625e-07,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.006804227828979492,
+   "doy_median": {
+    "own": 224.0,
+    "before": 270.0,
+    "after": 203.0,
+    "l7": 296.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 144,
+   "days": 80
+  },
+  {
+   "own": 1.0,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 208.0,
+    "before": null,
+    "after": null,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 144,
+   "days": 80
+  }
+ ],
+ "minutes": 6.05
+}

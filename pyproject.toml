@@ -1,0 +1,43 @@
+[project]
+name = "ne-landsat-temporal-mosaic"
+version = "1.0.0"
+description = "The pipeline that builds the New England leaf-on Landsat composites, 2000-2025: catalog, planner, per-tile medoid runner into Icechunk, the Landsat 7 ladder, provenance recovery, the Zarr v3 multiscales pyramid, QA and the Source Coop upload"
+readme = "README.md"
+authors = [
+    { name = "Stephen Kent", email = "43362477+kentstephen@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+license = "MIT"
+dependencies = [
+    "adlfs>=2026.8.0",
+    "affine>=2.4.0",
+    "boto3>=1.43.90",
+    "duckdb>=1.5.5",
+    "geopandas>=1.1.4",
+    "icechunk>=2.2.0",
+    "matplotlib>=3.11.1",
+    "numcodecs>=0.16.0",
+    "numpy>=2.5.2",
+    "odc-stac>=0.5.3",
+    "pandas>=3.0.5",
+    "pillow>=12.3.0",
+    "planetary-computer>=1.0.0",
+    "pyarrow>=25.0.1",
+    "pystac>=1.10.0",
+    "pystac-client>=0.9.0",
+    "rasterio>=1.4.0",
+    "requests>=2.32.0",
+    "shapely>=2.0.0",
+    "stac-geoparquet>=0.8.2",
+    "xarray>=2026.7.0",
+    "zarr>=3.3.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
+
+# the package is src/landsat_mosaic, which does not match the project name,
+# so uv_build has to be told where to look
+[tool.uv.build-backend]
+module-name = "landsat_mosaic"

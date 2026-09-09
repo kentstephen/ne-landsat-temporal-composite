@@ -1,0 +1,104 @@
+{
+ "own": 0.4131624102592468,
+ "before": 0.3228057622909546,
+ "after": 0.2640318274497986,
+ "l7": 0.0,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 0.5868375897407532,
+ "doy_median": {
+  "own": 226.0,
+  "before": 200.0,
+  "after": 206.0,
+  "l7": null
+ },
+ "tile": "r01c03",
+ "year": 2019,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.6117768287658691,
+   "before": 0.1862490177154541,
+   "after": 0.20197415351867676,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.38822317123413086,
+   "doy_median": {
+    "own": 226.0,
+    "before": 223.0,
+    "after": 206.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 70,
+   "days": 50
+  },
+  {
+   "own": 0.3489065170288086,
+   "before": 0.3880324363708496,
+   "after": 0.2630610466003418,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.6510934829711914,
+   "doy_median": {
+    "own": 235.0,
+    "before": 200.0,
+    "after": 206.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 98,
+   "days": 78
+  },
+  {
+   "own": 0.3854832649230957,
+   "before": 0.39044833183288574,
+   "after": 0.22406840324401855,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.6145167350769043,
+   "doy_median": {
+    "own": 210.0,
+    "before": 223.0,
+    "after": 206.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 109,
+   "days": 88
+  },
+  {
+   "own": 0.30648303031921387,
+   "before": 0.3264932632446289,
+   "after": 0.3670237064361572,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.6935169696807861,
+   "doy_median": {
+    "own": 235.0,
+    "before": 200.0,
+    "after": 206.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 137,
+   "days": 90
+  }
+ ],
+ "minutes": 3.66
+}

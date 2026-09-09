@@ -1,0 +1,104 @@
+{
+ "own": 0.9999937834563078,
+ "before": 3.47157634755291e-06,
+ "after": 2.7449673445767194e-06,
+ "l7": 0.0,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 6.216543692129629e-06,
+ "doy_median": {
+  "own": 248.0,
+  "before": 245.0,
+  "after": 243.0,
+  "l7": null
+ },
+ "tile": "r02c06",
+ "year": 2023,
+ "pixels": 12386304,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.9999995231628418,
+   "before": 4.76837158203125e-07,
+   "after": 0.0,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 4.76837158203125e-07,
+   "doy_median": {
+    "own": 248.0,
+    "before": 253.0,
+    "after": null,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 232,
+   "days": 150
+  },
+  {
+   "own": 1.0,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 248.0,
+    "before": null,
+    "after": null,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 183,
+   "days": 143
+  },
+  {
+   "own": 0.999983549118042,
+   "before": 9.059906005859375e-06,
+   "after": 7.3909759521484375e-06,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 1.6450881958007812e-05,
+   "doy_median": {
+    "own": 248.0,
+    "before": 241.0,
+    "after": 243.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 177,
+   "days": 146
+  },
+  {
+   "own": 0.9999969982710041,
+   "before": 1.5008644979508196e-06,
+   "after": 1.5008644979508196e-06,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 3.0017289959016393e-06,
+   "doy_median": {
+    "own": 248.0,
+    "before": 301.0,
+    "after": 227.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 127,
+   "days": 97
+  }
+ ],
+ "minutes": 3.56
+}

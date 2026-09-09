@@ -1,0 +1,104 @@
+{
+ "own": 0.9880381226539612,
+ "before": 0.00015908479690551758,
+ "after": 8.404254913330078e-05,
+ "l7": 0.010364294052124023,
+ "nodata": 0.0013544559478759766,
+ "unmatched": 0.0,
+ "neighbour": 0.00024312734603881836,
+ "doy_median": {
+  "own": 214.0,
+  "before": 235.0,
+  "after": 256.0,
+  "l7": 229.0
+ },
+ "tile": "r03c05",
+ "year": 2005,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.9873087406158447,
+   "before": 0.0006363391876220703,
+   "after": 0.0003361701965332031,
+   "l7": 0.011718511581420898,
+   "nodata": 2.384185791015625e-07,
+   "unmatched": 0.0,
+   "neighbour": 0.0009725093841552734,
+   "doy_median": {
+    "own": 214.0,
+    "before": 235.0,
+    "after": 256.0,
+    "l7": 238.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 90,
+   "days": 56
+  },
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 230.0,
+    "before": null,
+    "after": null,
+    "l7": 238.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 90,
+   "days": 56
+  },
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.011706352233886719,
+   "nodata": 1.239776611328125e-05,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 205.0,
+    "before": null,
+    "after": null,
+    "l7": 197.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 90,
+   "days": 56
+  },
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.0063135623931884766,
+   "nodata": 0.0054051876068115234,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 198.0,
+    "before": null,
+    "after": null,
+    "l7": 238.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 90,
+   "days": 56
+  }
+ ],
+ "minutes": 2.37
+}

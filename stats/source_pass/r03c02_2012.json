@@ -1,0 +1,104 @@
+{
+ "own": 0.9998712539672852,
+ "before": 0.0,
+ "after": 0.0,
+ "l7": 0.00012874603271484375,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 0.0,
+ "doy_median": {
+  "own": 213.0,
+  "before": null,
+  "after": null,
+  "l7": 233.0
+ },
+ "tile": "r03c02",
+ "year": 2012,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.9995143413543701,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.0004856586456298828,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 204.0,
+    "before": null,
+    "after": null,
+    "l7": 233.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 154,
+   "days": 87
+  },
+  {
+   "own": 0.9999711513519287,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 2.8848648071289062e-05,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 213.0,
+    "before": null,
+    "after": null,
+    "l7": 221.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 154,
+   "days": 87
+  },
+  {
+   "own": 1.0,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 213.0,
+    "before": null,
+    "after": null,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 154,
+   "days": 87
+  },
+  {
+   "own": 0.9999995231628418,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 4.76837158203125e-07,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 213.0,
+    "before": null,
+    "after": null,
+    "l7": 240.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 154,
+   "days": 87
+  }
+ ],
+ "minutes": 5.25
+}

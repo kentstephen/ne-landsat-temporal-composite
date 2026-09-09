@@ -1,0 +1,104 @@
+{
+ "own": 0.9733957052230835,
+ "before": 0.009506583213806152,
+ "after": 0.01709771156311035,
+ "l7": 0.0,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 0.026604294776916504,
+ "doy_median": {
+  "own": 169.0,
+  "before": 206.0,
+  "after": 171.0,
+  "l7": null
+ },
+ "tile": "r01c04",
+ "year": 2021,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.8936529159545898,
+   "before": 0.038010358810424805,
+   "after": 0.06833672523498535,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.10634708404541016,
+   "doy_median": {
+    "own": 160.0,
+    "before": 206.0,
+    "after": 171.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 89,
+   "days": 69
+  },
+  {
+   "own": 1.0,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 176.0,
+    "before": null,
+    "after": null,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 89,
+   "days": 69
+  },
+  {
+   "own": 0.9999885559082031,
+   "before": 8.106231689453125e-06,
+   "after": 3.337860107421875e-06,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 1.1444091796875e-05,
+   "doy_median": {
+    "own": 169.0,
+    "before": 174.0,
+    "after": 163.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 102,
+   "days": 70
+  },
+  {
+   "own": 0.999941349029541,
+   "before": 7.867813110351562e-06,
+   "after": 5.078315734863281e-05,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 5.8650970458984375e-05,
+   "doy_median": {
+    "own": 169.0,
+    "before": 215.0,
+    "after": 212.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 102,
+   "days": 70
+  }
+ ],
+ "minutes": 3.02
+}

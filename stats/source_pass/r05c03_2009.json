@@ -1,0 +1,104 @@
+{
+ "own": 0.9882116317749023,
+ "before": 3.707408905029297e-05,
+ "after": 3.254413604736328e-05,
+ "l7": 0.01171875,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 6.961822509765625e-05,
+ "doy_median": {
+  "own": 200.0,
+  "before": 166.0,
+  "after": 203.0,
+  "l7": 208.0
+ },
+ "tile": "r05c03",
+ "year": 2009,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 191.0,
+    "before": null,
+    "after": null,
+    "l7": 231.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 93,
+   "days": 68
+  },
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 200.0,
+    "before": null,
+    "after": null,
+    "l7": 192.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 93,
+   "days": 68
+  },
+  {
+   "own": 0.9882745742797852,
+   "before": 3.337860107421875e-06,
+   "after": 3.337860107421875e-06,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 6.67572021484375e-06,
+   "doy_median": {
+    "own": 191.0,
+    "before": 221.0,
+    "after": 226.0,
+    "l7": 215.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 63,
+   "days": 63
+  },
+  {
+   "own": 0.9880094528198242,
+   "before": 0.00014495849609375,
+   "after": 0.00012683868408203125,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.00027179718017578125,
+   "doy_median": {
+    "own": 200.0,
+    "before": 166.0,
+    "after": 203.0,
+    "l7": 192.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 63,
+   "days": 63
+  }
+ ],
+ "minutes": 2.61
+}

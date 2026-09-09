@@ -1,0 +1,104 @@
+{
+ "own": 0.9882273077964783,
+ "before": 1.9848346710205078e-05,
+ "after": 2.4974346160888672e-05,
+ "l7": 0.011720120906829834,
+ "nodata": 7.748603820800781e-06,
+ "unmatched": 0.0,
+ "neighbour": 4.482269287109375e-05,
+ "doy_median": {
+  "own": 212.0,
+  "before": 248.0,
+  "after": 230.0,
+  "l7": 252.0
+ },
+ "tile": "r05c00",
+ "year": 2008,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.9881958961486816,
+   "before": 2.956390380859375e-05,
+   "after": 2.384185791015625e-05,
+   "l7": 0.011723518371582031,
+   "nodata": 2.7179718017578125e-05,
+   "unmatched": 0.0,
+   "neighbour": 5.340576171875e-05,
+   "doy_median": {
+    "own": 235.0,
+    "before": 248.0,
+    "after": 237.0,
+    "l7": 236.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 92,
+   "days": 67
+  },
+  {
+   "own": 0.9882767200469971,
+   "before": 1.430511474609375e-06,
+   "after": 3.0994415283203125e-06,
+   "l7": 0.011717081069946289,
+   "nodata": 1.6689300537109375e-06,
+   "unmatched": 0.0,
+   "neighbour": 4.5299530029296875e-06,
+   "doy_median": {
+    "own": 212.0,
+    "before": 233.0,
+    "after": 230.0,
+    "l7": 252.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 95,
+   "days": 70
+  },
+  {
+   "own": 0.988239049911499,
+   "before": 2.9325485229492188e-05,
+   "after": 1.2874603271484375e-05,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 4.220008850097656e-05,
+   "doy_median": {
+    "own": 212.0,
+    "before": 248.0,
+    "after": 237.0,
+    "l7": 236.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 64,
+   "days": 64
+  },
+  {
+   "own": 0.9881975650787354,
+   "before": 1.9073486328125e-05,
+   "after": 6.008148193359375e-05,
+   "l7": 0.011721134185791016,
+   "nodata": 2.1457672119140625e-06,
+   "unmatched": 0.0,
+   "neighbour": 7.915496826171875e-05,
+   "doy_median": {
+    "own": 212.0,
+    "before": 241.0,
+    "after": 230.0,
+    "l7": 252.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 67,
+   "days": 67
+  }
+ ],
+ "minutes": 3.12
+}

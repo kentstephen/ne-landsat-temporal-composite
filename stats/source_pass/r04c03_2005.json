@@ -1,0 +1,104 @@
+{
+ "own": 0.9879775047302246,
+ "before": 0.00013238191604614258,
+ "after": 0.00017130374908447266,
+ "l7": 0.011718809604644775,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 0.00030368566513061523,
+ "doy_median": {
+  "own": 244.0,
+  "before": 274.0,
+  "after": 263.0,
+  "l7": 220.0
+ },
+ "tile": "r04c03",
+ "year": 2005,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.987067699432373,
+   "before": 0.0005295276641845703,
+   "after": 0.0006837844848632812,
+   "l7": 0.011718988418579102,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0012133121490478516,
+   "doy_median": {
+    "own": 244.0,
+    "before": 274.0,
+    "after": 263.0,
+    "l7": 204.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 51,
+   "days": 51
+  },
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 244.0,
+    "before": null,
+    "after": null,
+    "l7": 229.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 51,
+   "days": 51
+  },
+  {
+   "own": 0.9882798194885254,
+   "before": 0.0,
+   "after": 1.430511474609375e-06,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 1.430511474609375e-06,
+   "doy_median": {
+    "own": 237.0,
+    "before": null,
+    "after": 215.0,
+    "l7": 197.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 108,
+   "days": 65
+  },
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 244.0,
+    "before": null,
+    "after": null,
+    "l7": 229.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 108,
+   "days": 65
+  }
+ ],
+ "minutes": 2.75
+}

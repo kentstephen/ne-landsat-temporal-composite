@@ -1,0 +1,104 @@
+{
+ "own": 0.9881280660629272,
+ "before": 4.2378902435302734e-05,
+ "after": 0.00010651350021362305,
+ "l7": 0.01172107458114624,
+ "nodata": 1.9669532775878906e-06,
+ "unmatched": 0.0,
+ "neighbour": 0.00014889240264892578,
+ "doy_median": {
+  "own": 210.0,
+  "before": 217.0,
+  "after": 206.0,
+  "l7": 218.0
+ },
+ "tile": "r04c00",
+ "year": 2005,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.9881107807159424,
+   "before": 7.081031799316406e-05,
+   "after": 9.799003601074219e-05,
+   "l7": 0.01172018051147461,
+   "nodata": 2.384185791015625e-07,
+   "unmatched": 0.0,
+   "neighbour": 0.00016880035400390625,
+   "doy_median": {
+    "own": 210.0,
+    "before": 224.0,
+    "after": 213.0,
+    "l7": 218.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 52,
+   "days": 52
+  },
+  {
+   "own": 0.9882802963256836,
+   "before": 0.0,
+   "after": 9.5367431640625e-07,
+   "l7": 0.011718511581420898,
+   "nodata": 2.384185791015625e-07,
+   "unmatched": 0.0,
+   "neighbour": 9.5367431640625e-07,
+   "doy_median": {
+    "own": 235.0,
+    "before": null,
+    "after": 261.0,
+    "l7": 211.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 52,
+   "days": 52
+  },
+  {
+   "own": 0.988182544708252,
+   "before": 1.5735626220703125e-05,
+   "after": 6.747245788574219e-05,
+   "l7": 0.011726856231689453,
+   "nodata": 7.3909759521484375e-06,
+   "unmatched": 0.0,
+   "neighbour": 8.320808410644531e-05,
+   "doy_median": {
+    "own": 178.0,
+    "before": 192.0,
+    "after": 213.0,
+    "l7": 218.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 112,
+   "days": 67
+  },
+  {
+   "own": 0.987938642501831,
+   "before": 8.296966552734375e-05,
+   "after": 0.00025963783264160156,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0003426074981689453,
+   "doy_median": {
+    "own": 235.0,
+    "before": 185.0,
+    "after": 206.0,
+    "l7": 211.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 112,
+   "days": 67
+  }
+ ],
+ "minutes": 3.44
+}

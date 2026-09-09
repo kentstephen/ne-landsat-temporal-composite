@@ -1,0 +1,104 @@
+{
+ "own": 0.9865068793296814,
+ "before": 0.0017743706703186035,
+ "after": 0.0,
+ "l7": 0.011709332466125488,
+ "nodata": 9.417533874511719e-06,
+ "unmatched": 0.0,
+ "neighbour": 0.0017743706703186035,
+ "doy_median": {
+  "own": 229.0,
+  "before": 226.0,
+  "after": null,
+  "l7": 221.0
+ },
+ "tile": "r01c03",
+ "year": 2011,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 229.0,
+    "before": null,
+    "after": null,
+    "l7": 221.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 62,
+   "days": 47
+  },
+  {
+   "own": 0.9819416999816895,
+   "before": 0.006339550018310547,
+   "after": 0.0,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.006339550018310547,
+   "doy_median": {
+    "own": 229.0,
+    "before": 226.0,
+    "after": null,
+    "l7": 221.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 80,
+   "days": 65
+  },
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.011701107025146484,
+   "nodata": 1.7642974853515625e-05,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 213.0,
+    "before": null,
+    "after": null,
+    "l7": 196.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 90,
+   "days": 68
+  },
+  {
+   "own": 0.9875233173370361,
+   "before": 0.0007579326629638672,
+   "after": 0.0,
+   "l7": 0.011698722839355469,
+   "nodata": 2.002716064453125e-05,
+   "unmatched": 0.0,
+   "neighbour": 0.0007579326629638672,
+   "doy_median": {
+    "own": 229.0,
+    "before": 242.0,
+    "after": null,
+    "l7": 221.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 108,
+   "days": 70
+  }
+ ],
+ "minutes": 2.55
+}

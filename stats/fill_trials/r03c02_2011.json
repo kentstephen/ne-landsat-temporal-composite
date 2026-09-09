@@ -1,0 +1,34 @@
+{
+ "fill4": {
+  "blocks": 1,
+  "nir_ratio_mean": 2.415,
+  "nir_ratio_max": 2.415,
+  "nir_self_mean": 2.415,
+  "cc_ratio_mean": 20.349,
+  "mean_count": 5.99,
+  "frac_lt4": 0.0,
+  "frac_nodata": 0.0,
+  "frac_src": {
+   "own": 1.0,
+   "neighbour": 0.0,
+   "l7": 0.0,
+   "nodata": 0.0
+  }
+ },
+ "nbr3": {
+  "blocks": 1,
+  "nir_ratio_mean": 2.416,
+  "nir_ratio_max": 2.416,
+  "nir_self_mean": 2.416,
+  "cc_ratio_mean": 20.369,
+  "mean_count": 5.98,
+  "frac_lt4": 0.0004,
+  "frac_nodata": 0.0,
+  "frac_src": {
+   "own": 1.0,
+   "neighbour": 0.0,
+   "l7": 0.0,
+   "nodata": 0.0
+  }
+ }
+}

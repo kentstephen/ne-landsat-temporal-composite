@@ -1,0 +1,104 @@
+{
+ "own": 0.9863564968109131,
+ "before": 0.003193974494934082,
+ "after": 0.010449528694152832,
+ "l7": 0.0,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 0.013643503189086914,
+ "doy_median": {
+  "own": 246.0,
+  "before": 218.0,
+  "after": 249.0,
+  "l7": null
+ },
+ "tile": "r01c04",
+ "year": 2014,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.994992733001709,
+   "before": 0.0037336349487304688,
+   "after": 0.0012736320495605469,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.005007266998291016,
+   "doy_median": {
+    "own": 237.0,
+    "before": 202.0,
+    "after": 176.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 86,
+   "days": 63
+  },
+  {
+   "own": 1.0,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 262.0,
+    "before": null,
+    "after": null,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 86,
+   "days": 63
+  },
+  {
+   "own": 0.9999904632568359,
+   "before": 6.67572021484375e-06,
+   "after": 2.86102294921875e-06,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 9.5367431640625e-06,
+   "doy_median": {
+    "own": 246.0,
+    "before": 170.0,
+    "after": 192.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 94,
+   "days": 70
+  },
+  {
+   "own": 0.9504427909851074,
+   "before": 0.009035587310791016,
+   "after": 0.04052162170410156,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.04955720901489258,
+   "doy_median": {
+    "own": 262.0,
+    "before": 227.0,
+    "after": 249.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 94,
+   "days": 70
+  }
+ ],
+ "minutes": 4.17
+}

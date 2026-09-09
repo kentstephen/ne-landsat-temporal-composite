@@ -1,0 +1,66 @@
+{
+ "fill4": {
+  "blocks": 4,
+  "nir_ratio_mean": 1.339,
+  "nir_ratio_max": 1.572,
+  "nir_self_mean": 1.563,
+  "cc_ratio_mean": 8.921,
+  "mean_count": 5.42,
+  "frac_lt4": 0.0018,
+  "frac_nodata": 0.0,
+  "frac_src": {
+   "own": 0.6243,
+   "neighbour": 0.0,
+   "l7": 0.3757,
+   "nodata": 0.0
+  }
+ },
+ "fill3": {
+  "blocks": 4,
+  "nir_ratio_mean": 1.236,
+  "nir_ratio_max": 1.456,
+  "nir_self_mean": 1.545,
+  "cc_ratio_mean": 3.211,
+  "mean_count": 4.87,
+  "frac_lt4": 0.1465,
+  "frac_nodata": 0.0,
+  "frac_src": {
+   "own": 0.7165,
+   "neighbour": 0.0,
+   "l7": 0.2835,
+   "nodata": 0.0
+  }
+ },
+ "nbr4": {
+  "blocks": 4,
+  "nir_ratio_mean": 0.996,
+  "nir_ratio_max": 1.46,
+  "nir_self_mean": 1.576,
+  "cc_ratio_mean": 1.842,
+  "mean_count": 6.81,
+  "frac_lt4": 0.0,
+  "frac_nodata": 0.0,
+  "frac_src": {
+   "own": 0.581,
+   "neighbour": 0.419,
+   "l7": 0.0,
+   "nodata": 0.0
+  }
+ },
+ "nbr3": {
+  "blocks": 4,
+  "nir_ratio_mean": 0.915,
+  "nir_ratio_max": 1.117,
+  "nir_self_mean": 1.563,
+  "cc_ratio_mean": 1.543,
+  "mean_count": 5.89,
+  "frac_lt4": 0.1447,
+  "frac_nodata": 0.0,
+  "frac_src": {
+   "own": 0.6947,
+   "neighbour": 0.3053,
+   "l7": 0.0,
+   "nodata": 0.0
+  }
+ }
+}

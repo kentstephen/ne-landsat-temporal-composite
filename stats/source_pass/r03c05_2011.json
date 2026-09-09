@@ -1,0 +1,104 @@
+{
+ "own": 0.8151391744613647,
+ "before": 0.02678096294403076,
+ "after": 0.0,
+ "l7": 0.02828449010848999,
+ "nodata": 0.1297953724861145,
+ "unmatched": 0.0,
+ "neighbour": 0.02678096294403076,
+ "doy_median": {
+  "own": 238.0,
+  "before": 212.0,
+  "after": null,
+  "l7": 255.0
+ },
+ "tile": "r03c05",
+ "year": 2011,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.9882338047027588,
+   "before": 2.0265579223632812e-05,
+   "after": 0.0,
+   "l7": 0.011729001998901367,
+   "nodata": 1.6927719116210938e-05,
+   "unmatched": 0.0,
+   "neighbour": 2.0265579223632812e-05,
+   "doy_median": {
+    "own": 238.0,
+    "before": 148.0,
+    "after": null,
+    "l7": 255.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 60,
+   "days": 43
+  },
+  {
+   "own": 0.906395673751831,
+   "before": 0.08188557624816895,
+   "after": 0.0,
+   "l7": 0.01171875,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.08188557624816895,
+   "doy_median": {
+    "own": 247.0,
+    "before": 212.0,
+    "after": null,
+    "l7": 255.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 60,
+   "days": 43
+  },
+  {
+   "own": 0.98828125,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.011718511581420898,
+   "nodata": 2.384185791015625e-07,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 238.0,
+    "before": null,
+    "after": null,
+    "l7": 246.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 60,
+   "days": 43
+  },
+  {
+   "own": 0.37764596939086914,
+   "before": 0.02521800994873047,
+   "after": 0.0,
+   "l7": 0.0779716968536377,
+   "nodata": 0.5191643238067627,
+   "unmatched": 0.0,
+   "neighbour": 0.02521800994873047,
+   "doy_median": {
+    "own": 238.0,
+    "before": 219.0,
+    "after": null,
+    "l7": 246.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 60,
+   "days": 43
+  }
+ ],
+ "minutes": 1.78
+}

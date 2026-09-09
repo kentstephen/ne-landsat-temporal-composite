@@ -1,0 +1,104 @@
+{
+ "own": 0.738752543926239,
+ "before": 0.1889406442642212,
+ "after": 0.06606626510620117,
+ "l7": 0.006240546703338623,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 0.25500690937042236,
+ "doy_median": {
+  "own": 239.0,
+  "before": 236.0,
+  "after": 217.0,
+  "l7": 238.0
+ },
+ "tile": "r03c05",
+ "year": 2014,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.9997305870056152,
+   "before": 2.9802322387695312e-05,
+   "after": 0.0002396106719970703,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0002694129943847656,
+   "doy_median": {
+    "own": 239.0,
+    "before": 227.0,
+    "after": 249.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 99,
+   "days": 66
+  },
+  {
+   "own": 1.0,
+   "before": 0.0,
+   "after": 0.0,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.0,
+   "doy_median": {
+    "own": 239.0,
+    "before": null,
+    "after": null,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 99,
+   "days": 66
+  },
+  {
+   "own": 0.5824801921844482,
+   "before": 0.20643091201782227,
+   "after": 0.2110888957977295,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.41751980781555176,
+   "doy_median": {
+    "own": 246.0,
+    "before": 227.0,
+    "after": 217.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 99,
+   "days": 66
+  },
+  {
+   "own": 0.3727993965148926,
+   "before": 0.5493018627166748,
+   "after": 0.052936553955078125,
+   "l7": 0.024962186813354492,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.6022384166717529,
+   "doy_median": {
+    "own": 239.0,
+    "before": 236.0,
+    "after": 217.0,
+    "l7": 238.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 99,
+   "days": 66
+  }
+ ],
+ "minutes": 3.47
+}

@@ -1,0 +1,104 @@
+{
+ "own": 0.9493852853775024,
+ "before": 0.0115700364112854,
+ "after": 0.03904449939727783,
+ "l7": 1.7881393432617188e-07,
+ "nodata": 0.0,
+ "unmatched": 0.0,
+ "neighbour": 0.05061453580856323,
+ "doy_median": {
+  "own": 247.0,
+  "before": 229.0,
+  "after": 226.0,
+  "l7": 136.0
+ },
+ "tile": "r03c01",
+ "year": 2021,
+ "pixels": 16777216,
+ "partial": false,
+ "count_equal": 1.0,
+ "count_equal_nonzero": 1.0,
+ "subs": [
+  {
+   "own": 0.9634735584259033,
+   "before": 0.008368968963623047,
+   "after": 0.028157472610473633,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.03652644157409668,
+   "doy_median": {
+    "own": 247.0,
+    "before": 229.0,
+    "after": 210.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 0,
+   "scenes": 179,
+   "days": 118
+  },
+  {
+   "own": 0.8632557392120361,
+   "before": 0.032241106033325195,
+   "after": 0.10450315475463867,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.13674426078796387,
+   "doy_median": {
+    "own": 247.0,
+    "before": 229.0,
+    "after": 226.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 1,
+   "scenes": 175,
+   "days": 118
+  },
+  {
+   "own": 0.9809391498565674,
+   "before": 0.002857208251953125,
+   "after": 0.016203641891479492,
+   "l7": 0.0,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.019060850143432617,
+   "doy_median": {
+    "own": 247.0,
+    "before": 213.0,
+    "after": 218.0,
+    "l7": null
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 2,
+   "scenes": 179,
+   "days": 118
+  },
+  {
+   "own": 0.9898726940155029,
+   "before": 0.0028128623962402344,
+   "after": 0.007313728332519531,
+   "l7": 7.152557373046875e-07,
+   "nodata": 0.0,
+   "unmatched": 0.0,
+   "neighbour": 0.010126590728759766,
+   "doy_median": {
+    "own": 247.0,
+    "before": 213.0,
+    "after": 226.0,
+    "l7": 136.0
+   },
+   "count_equal": 1.0,
+   "count_equal_nonzero": 1.0,
+   "sub": 3,
+   "scenes": 175,
+   "days": 118
+  }
+ ],
+ "minutes": 6.05
+}

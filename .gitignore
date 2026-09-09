@@ -1,0 +1,20 @@
+.claude/memory/
+.venv/
+__pycache__/
+*.egg-info/
+.DS_Store
+
+# data/ is the working directory: catalog (6 GB), the Icechunk store (130 GB),
+# the pyramid (130 GB), trials, logs, pids. Only the small build inputs the
+# scripts read are tracked.
+data/*
+!data/bad_scenes.txt
+!data/holdout_windows.txt
+!data/l7fill_jobs.txt
+!data/l7fill_jobs_l5era.txt
+!data/l7fill_jobs_l8era.txt
+!data/striping_v3/
+
+# built by water.py, 18.7 MB; the two small layers are tracked
+supplemental/water.parquet
+supplemental/protected_open_space.parquet
