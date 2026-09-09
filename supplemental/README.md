@@ -5,12 +5,6 @@ footprint for clipping the mosaic, which is not masked in the store.
 `nhd_water_bodies.parquet` is the inland and near-shore water, for masking the CTrees
 fold. **`hf435_wildlands.parquet` is the one the viewers draw.**
 
-An earlier overlay, a build of Harvard Forest's New England Protected Open
-Space v1.1 (Zenodo 4688018), was replaced by the wildlands layer on
-2026-09-06 and removed from the bucket on 2026-09-09. It compiled every
-kind of conserved land on the same footing, town commons and cemeteries
-alongside Baxter State Park, with a median parcel of 2.7 ha and no land
-cover attribute to filter on.
 
 ## hf435_wildlands.parquet (in use)
 
