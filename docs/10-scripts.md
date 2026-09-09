@@ -97,9 +97,6 @@ question whose answer is in the docs and in `stats/`.
     wildlands.py        supplemental/hf435_wildlands.parquet from Harvard Forest HF435.
     water.py            supplemental/nhd_water_bodies.parquet from NHD High Resolution (18.7 MB,
                         built on demand, not tracked).
-    supplemental.py     supplemental/protected_open_space.parquet from Harvard
-                        Forest's Protected Open Space v1.1. Built, shipped, then
-                        replaced by the wildlands layer and removed from the bucket.
 
 `supplemental/README.md` has the sources, licenses and what changed
 from each source.

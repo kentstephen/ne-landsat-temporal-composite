@@ -10,8 +10,7 @@ Space v1.1 (Zenodo 4688018), was replaced by the wildlands layer on
 2026-09-06 and removed from the bucket on 2026-09-09. It compiled every
 kind of conserved land on the same footing, town commons and cemeteries
 alongside Baxter State Park, with a median parcel of 2.7 ha and no land
-cover attribute to filter on. `src/landsat_mosaic/supplemental.py` still
-builds it from the Zenodo source if it is wanted.
+cover attribute to filter on.
 
 ## hf435_wildlands.parquet (in use)
 
