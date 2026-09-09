@@ -113,8 +113,17 @@ from each source.
     bad_scenes.txt           33 STAC item ids with corrupt assets, dropped from every job
     striping_v3/             the v3 stripe scores the validators compare against
 
-## Not in this repo
+## The viewer
 
-The marimo viewers (`mosaic-viewer.py` and the CTrees pair notebooks)
-and `tiles.py`, the Web Mercator tile renderer they read the pyramid
-through. They consume the product; they are not its provenance.
+    mosaic-viewer.py    One marimo map over the local pyramid, one year at a time:
+                        true colour, false colour, NDVI, clear count, the borrowed
+                        share and the source class, with a click readout of the
+                        level 0 pixel. This is what every build was looked at in.
+                        uv sync --group viewer, then uv run marimo edit mosaic-viewer.py
+    tiles.py            Web Mercator PNG tiles from the pyramid, the level nearest the
+                        zoom, and probe(lon, lat, year) for the click readout. Reads
+                        data/pyramid_v1; clip_to_states() uses
+                        supplemental/state_boundary.parquet.
+
+The CTrees pair notebooks are not here. They consume the product and
+live in their own repo.

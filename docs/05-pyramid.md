@@ -143,10 +143,9 @@ a `batch.py` that writes what it reads.
 refresh: tag, export with `--force` for the years, export verify,
 levels for the years, finalize, full verify. `after_batch.sh` waits for a
 running batch to exit, checks its log for the expected job count and
-no `failed.txt`, runs the build, scores the result and restarts the
-local viewer. The viewer restart at its end refers to the working
-repo's `mosaic-viewer.py`, which is not in this repo; it logs and
-carries on if the viewer does not come up.
+no `failed.txt`, runs the build, scores the result and restarts
+`mosaic-viewer.py` on port 2718, headless, and logs and carries on if
+it does not come up.
 
 ## Readers checked
 

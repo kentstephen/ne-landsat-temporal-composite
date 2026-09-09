@@ -90,6 +90,11 @@ the v3 stripe scores the validators compare against.
     docs/09-new-year.md           how to append a year
     docs/10-scripts.md            every script, what it reads, what it writes
 
+`mosaic-viewer.py` is the marimo map the builds were inspected in: one
+year at a time from the local pyramid, with the provenance planes as
+modes and a click readout of the source pixel. `uv sync --group viewer`
+then `uv run marimo edit mosaic-viewer.py`.
+
 `stats/` holds the measurements the docs cite, as the scripts wrote them.
 `chains/` holds the unattended shell chains that ran the rebuilds
 overnight. `supplemental/` holds the README and two of the three vector

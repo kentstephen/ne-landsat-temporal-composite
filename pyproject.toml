@@ -41,3 +41,11 @@ build-backend = "uv_build"
 # so uv_build has to be told where to look
 [tool.uv.build-backend]
 module-name = "landsat_mosaic"
+
+# mosaic-viewer.py, the marimo map over the local pyramid: uv sync --group viewer
+[dependency-groups]
+viewer = [
+    "anywidget>=0.11.0",
+    "marimo>=0.24.0",
+    "traitlets>=5.14.0",
+]
