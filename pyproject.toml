@@ -1,5 +1,5 @@
 [project]
-name = "ne-landsat-temporal-mosaic"
+name = "ne-landsat-temporal-composite"
 version = "1.0.0"
 description = "The pipeline that builds the New England leaf-on Landsat composites, 2000-2025: catalog, planner, per-tile medoid runner into Icechunk, the Landsat 7 ladder, provenance recovery, the Zarr v3 multiscales pyramid, QA and the Source Coop upload"
 readme = "README.md"

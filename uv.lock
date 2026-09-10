@@ -1657,7 +1657,7 @@ wheels = [
 ]
 
 [[package]]
-name = "ne-landsat-temporal-mosaic"
+name = "ne-landsat-temporal-composite"
 version = "1.0.0"
 source = { editable = "." }
 dependencies = [
