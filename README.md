@@ -1,4 +1,4 @@
-# ne-landsat-temporal-composite
+# New England Landsat Temporal Composite
 
 The code that built the New England leaf-on Landsat composites: one
 cloud-free composite per year, 2000 to 2025, six bands at 30 m, as a plain
