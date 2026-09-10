@@ -11,6 +11,14 @@ The product README there describes what a reader needs to know before
 using the pixels. This repo is the provenance: every script that ran, the
 inputs they read, the numbers they produced, and the order they ran in.
 
+A word on the name. This is a composite, not a mosaic. A mosaic joins
+scenes that cover different ground; a composite reduces scenes that
+cover the same ground on different dates to one value per pixel, which
+is what the medoid does here. The Source Coop dataset id, the package
+directory `src/landsat_mosaic/` and `mosaic-viewer.py` were named before
+that distinction was drawn and keep the old word, since the dataset id
+cannot change and the paths are spelled out across the docs.
+
 Data: CC0-1.0. Code: MIT. Source: USGS Landsat Collection 2 Level-2 Tier 1
 surface reflectance, read through the Microsoft Planetary Computer.
 
